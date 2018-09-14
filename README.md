@@ -1,4 +1,4 @@
-# virtual-scroller 虚拟滚动
+# virtual-scroller
 Infinite List and React
 
 ### project
