@@ -4,6 +4,7 @@ Infinite List and React
 ### project
 1. [react-virtual-scroller](https://github.com/liximomo/react-virtual-scroller)
 2. [react-waypoint](https://github.com/brigade/react-waypoint)
+3. [react-virtual-list](https://github.com/dwqs/react-virtual-list)
 
 ### articles
 1. [Complexities of an Infinite Scroller](https://developers.google.com/web/updates/2016/07/infinite-scroller)
