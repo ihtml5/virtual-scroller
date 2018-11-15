@@ -12,3 +12,4 @@ Infinite List and React
 3. [How we built Twitter Lite](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html)
 4. [虚拟滚动的轮子是如何造成的？](https://juejin.im/post/5ae05bd66fb9a07aa631724b)
 5. [Performance Tools](https://reactjs.org/docs/perf.html)
+6. [virtual-scroller](https://github.com/valdrinkoshi/virtual-scroller)
